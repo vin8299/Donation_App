@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TERMS AND CONDITIONS"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:gravity="center_horizontal|center_vertical"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+Terms and conditions for volunteer
+
+1. Volunteer application will be accepted from every corner of the globe.
+
+2. Volunteer’s age must be 18 or above.
+
+3. “DREAM ALIVE” App matches pin code of “Help-Seekers” and ask volunteers to find the authenticity of the “Help-Seekers” who live in their nearby areas.
+
+4. Honest and neutral feedback about “Help-Seekers” is highly appreciated.
+
+5. Volunteer can not work for similar organization with similar objective.
+
+6. Volunteer can not give false commitment to “Help-Seekers” on behalf of “DREAM ALIVE” App Team.
+
+7. Volunteer can not start similar activities anywhere in the globe.
+
+8. Volunteer can not ask direct help to donor on behalf of “DREAM ALIVE” APP and can not directly donate to “Help-Seekers”
+
+9. Volunteer cannot mention their services into their bio data, social media profile or into the society as value added skills.
+
+10. It is pure services for the humanity in the field of Health and Education with the help of people from the society. No marketing, name and fame is needed for the social cause.
+
+11. “Help-Seekers” are identified by “DREAM ALIVE” App team and given to multiple volunteers to check their authenticity.
+
+12. The final decision of donation rests on the average feedback of multiple volunteers assigned to check the authenticity of a “Help-Seeker”
+
+13. Volunteer cannot give correct feedback being judgmental about “Help-Seekers”
+
+14. Manipulating information about “Help-Seekers” is not advisable.
+
+15. Volunteer can verify authenticity of “Help-Seekers” by calling, personal visit at his/her place (highly appreciated act), mailing or asking feedback to third person about “Help-Seekers”
+
+16. All future changes will abide to unconditionally.
+
+17. All rights are reserved with “DREAM ALIVE” App Team.
+
+
+
+Terms and conditions for “Help-Seekers”
+
+1. “Help-Seekers” must have genuine help in the area of health and education for own self or for his/her family.
+
+2. “Help-Seekers” can take single help every year.
+
+3. “Help-Seekers” will be offered medical help and education help by NGO FOR PEOPLE App
+
+4. “Help-Seekers” must show all needed ID proof, income poof and other documents as demand on time to time.
+
+5. Medical bill and Fees for education will be paid to direct organization on behalf of the “Help-Seekers” and “Help-Seekers” will get the payment receipts for the same.
+
+6. Everybody can ask help for anybody.
+
+7. “Help-Seekers” can not claim financial help directly in their bank account.
+
+8. “Help-Seekers” has to produce necessary medical reports and bills or evidence of education loan to get the financial help form “NGO FOR PEOPLE” App.
+
+9. “Help-Seekers” will not ask any help excluding Health and Education Sector.
+
+10. “Help-Seekers” can recommend “NGOR FOR PEOPLE” App to other “Help-Seekers”
+
+11. All future changes are subject to change as per “DREAM ALIVE” App team anytime in future.
+
+12. All rights are reserved with “DREAM ALIVE” App Team.
+
+
+
+Terms and conditions for Finance donor
+
+1. Finance Donor can choose any area, city, state, country, gender and sector for financial help through “NGO FOR PEOPLE” App.
+
+2. Finance Donor cannot choose specific person to help for personal reasons.
+
+3. Finance Donor can get real time and verified “Help-Seekers” through “NGO FOR PEOPLE” App.
+
+4. Donor’s financial help is secured at “DREAM ALIVE”App Team.
+
+5. “DREAM ALIVE” App Team shall release 80G approved donation receipts to the donor against donation.
+
+6. “DREAM ALIVE” Team verifies the authenticity of “Help-Seekers” with the help of volunteer and shall pass on financial help to verified “Help-Seekers”
+
+7. “DREAM ALIVE” Team will deduct their operational cost as it is purely run by donation.
+
+8. Finance Donor can also volunteer, where he/she can offer their time/skills/infrastructure help for the people.
+
+9. Finance Donor cannot negotiate or expect against financial donation with “NGO FOR PEOPLE” Team.
+
+10. “DREAM ALIVE” Team is purely for social cause and society. Any other purpose will not be entertained.
+
+11. Finance donor can show their company/organization or personal documents if it is needed for finance audit.
+
+12. “DREAM ALIVE” Team can use Finance Donor’s name and company’s name for promoting new donor for noble cause.
+
+13. All future changes are subject to change as per “NGO FOR PEOPE” App team anytime in future.
+
+14. All rights are reserved with “NGO FOR PEOPLE” App Team."/>
+
+    </LinearLayout>
+</ScrollView>

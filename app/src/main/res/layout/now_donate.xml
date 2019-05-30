@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+<LinearLayout
+    android:layout_margin="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal|center_vertical"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DONATE NOW!"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:gravity="center_horizontal|center_vertical"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="
+OUR NGO IS HAPPY TO HELP YOU FOR EDUCATION, HEALTH and ENVIRONMENT !
+"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="Offering help for"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        >
+            <CheckBox
+                android:layout_marginLeft="-7dp"
+                android:layout_marginRight="30dp"
+                 android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medical"/>
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Education"/>
+    </LinearLayout>
+  <Spinner
+      android:id="@+id/country_list"
+      android:layout_marginTop="10dp"
+      style="@style/holoSpinner"
+
+      android:layout_width="match_parent"
+      android:layout_height="50dp"
+      android:autofillHints="Select Country"
+      >
+  </Spinner>
+    <EditText
+        android:id="@+id/donation_amount"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Donation Amount*"/>
+    <EditText
+        android:id="@+id/donor_name"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Donar Name*"/>
+    <EditText
+        android:id="@+id/email"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email*"/>
+    <EditText
+        android:id="@+id/contact"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Contact*"/>
+    <EditText
+        android:id="@+id/organisation_name"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Organisation name"/>
+    <EditText
+        android:id="@+id/pan_card_number"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="PAN Card Number*"/>
+    <EditText
+        android:id="@+id/address"
+    android:layout_marginTop="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:hint="Address with ZipCode*"/>
+    <Button
+        android:clickable="true"
+        android:onClick="DonateNow"
+        android:id="@+id/donateNow"
+        android:layout_gravity="left"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Donate Now"
+        android:background="@drawable/mybutton"
+        android:textColor="#FFFFFF"
+        android:bottomRightRadius="20dp"
+        android:bottomLeftRadius="10dp"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp"
+        android:layout_marginBottom="20dp"
+        />
+
+</LinearLayout>
+</ScrollView>
